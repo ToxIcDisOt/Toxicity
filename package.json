@@ -1,0 +1,27 @@
+{
+  "name": "toxicity",
+  "version": "0.0.100",
+  "description": "This is a overpowered discord bot!",
+  "main": "ignite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "Toxicity",
+    "discord"
+  ],
+  "author": "artico",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.5",
+    "@discordjs/rest": "^2.0.1",
+    "axios": "^1.5.1",
+    "canvas": "^2.11.2",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "moment": "^2.29.4",
+    "mongoose": "^7.6.3",
+    "winston": "^3.11.0"
+  }
+}
